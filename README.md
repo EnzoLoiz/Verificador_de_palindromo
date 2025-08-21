@@ -13,10 +13,10 @@ palindromo.py → versão simples (console).
 palindromo_tkinter.py → versão com interface gráfica (Tkinter).
 
 🚀 Como rodar
-Versão Console:
+Versão Console
 python palindromo.py
 
-Versão Tkinter:
+Versão Tkinter
 python palindromo_tkinter.py
 
 🛠️ Tecnologias
@@ -25,15 +25,17 @@ Python 3
 
 Tkinter (GUI)
 
-💡 Exemplo de uso
-Console
+💡 Exemplo de uso (Console)
 
 Entrada:
+
 Digite uma palavra ou frase: arara
 
+
 Saída:
+
 arara é um palíndromo
 
 👤 Autor
 
-EnzoLoiz
+Feito por EnzoLoiz
