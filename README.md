@@ -1,24 +1,30 @@
-🔄 Verificador de Palíndromos em Python
+# 🔄 Verificador de Palíndromos em Python
 
-Este projeto contém duas versões de um verificador de palíndromos:
+Este projeto contém **duas versões** de um verificador de palíndromos:
 
-Versão Console (linha de comando) → o usuário digita uma palavra ou frase no terminal.
+- **Versão Console**: Digite uma palavra ou frase no terminal.  
+- **Versão Gráfica (Tkinter)**: Digite em uma caixinha de texto e veja o resultado na interface.
 
-Versão Gráfica (Tkinter) → o usuário digita em uma caixinha de texto e recebe o resultado na interface gráfica.
+---
 
-📂 Arquivos
+## 📂 Arquivos
 
-palindromo.py → versão simples (console).
+- `palindromo.py` → versão simples (console)  
+- `palindromo_tkinter.py` → versão com interface gráfica (Tkinter)
 
-palindromo_tkinter.py → versão com interface gráfica (Tkinter).
+---
 
-🚀 Como rodar
-Versão Console
+## 🚀 Como rodar
+
+### Versão Console
+```bash
 python palindromo.py
-
+````
 Versão Tkinter
-python palindromo_tkinter.py
+```bash
 
+python palindromo_tkinter.py
+```
 🛠️ Tecnologias
 
 Python 3
@@ -28,14 +34,14 @@ Tkinter (GUI)
 💡 Exemplo de uso (Console)
 
 Entrada:
-
+```yaml
 Digite uma palavra ou frase: arara
-
-
+```
 Saída:
-
+```yaml
 arara é um palíndromo
+```
 
 👤 Autor
 
-Feito por EnzoLoiz
+Feito por Enzo Loiz
